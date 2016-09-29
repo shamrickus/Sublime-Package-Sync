@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Gulp",
+		"Materialize",
+		"MSBuild",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
+		"Tagify",
+		"TypeScript"
+	]
+}

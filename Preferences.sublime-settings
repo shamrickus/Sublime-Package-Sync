@@ -1,0 +1,25 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+	"drag_text": false,
+	"file_exclude_patterns":
+	[
+		"*.js",
+		"*.css",
+		"*.js.map"
+	],
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material Seti.sublime-theme"
+}
