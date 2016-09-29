@@ -9,9 +9,6 @@
 	"drag_text": false,
 	"file_exclude_patterns":
 	[
-		"*.js",
-		"*.css",
-		"*.js.map"
 	],
 	"highlight_modified_tabs": true,
 	"ignored_packages":
