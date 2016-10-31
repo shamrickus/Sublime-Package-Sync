@@ -13,6 +13,7 @@
 		"*.css",
 		"*.js.map"
 	],
+	"font_size": 9,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -21,5 +22,6 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
 	"theme": "Material Seti.sublime-theme"
 }
