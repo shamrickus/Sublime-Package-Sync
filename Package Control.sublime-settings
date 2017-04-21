@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Alignment",
+		"ChangeQuotes",
+		"Diffy",
+		"Emmet",
+		"GhostText",
+		"GitGutter",
+		"GitHubinator",
+		"Gulp",
+		"Gutter Color",
+		"HTMLBeautify",
+		"Indent XML",
+		"Materialize",
+		"MSBuild",
+		"Package Control",
+		"PackageResourceViewer",
+		"Plugin Debugger",
+		"PowerShell",
+		"Python 3",
+		"RawLineEdit",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SQF Language",
+		"SqlBeautifier",
+		"SQLTools",
+		"SublimeGit",
+		"Tagify",
+		"TypeScript"
+	]
+}

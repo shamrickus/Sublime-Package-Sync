@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+alt+1"], "command": "format_html" },
+	{"keys": ["ctrl+alt+t"], "command": "print_line", "args": {"length": 40, "char": "-"}},
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["alt+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["alt+b"], "command": "show_panel", "args": {"panel": "output.exec"} },
+	{ "keys": ["ctrl+alt+b"], "command": "move", "args": {"by": "pages", "forward": false}},
+	{ "keys": ["ctrl+alt+f"], "command": "move", "args": {"by": "pages", "forward": true}}
+]
